@@ -70,7 +70,7 @@
   },
   "dependencies": {
     "ant-design-vue": "^1.4.9",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "element-ui": "^2.13.0",
     "exceljs": "^1.13.0",
     "fs-extra": "^8.0.1",
